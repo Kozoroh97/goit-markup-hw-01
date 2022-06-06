@@ -1,0 +1,8 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+    width: 1600;
+}
+
+.divSFH {
+    display: flex;
+}
